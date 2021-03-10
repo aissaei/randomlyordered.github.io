@@ -13,6 +13,7 @@ This is my first time blogging! So please bare with me along the way. It will ge
 0. Why I decided to do it?
 0. What I am going to blog about?
 0. And how I am going to do it?
+
 **Note: Why, What and How are work in progress and they are subject to change.**
 
 First things first, why? Due to my job (more on this later) I have traveled to many different countries and over 70% of the states in the US. I have met people from different background, races, ethnicity and gender. The more I talked to people, the more I felt a need for a neutral platform for people to discuss their “ideas”. I have noticed over time the “gray areas” have been fading away and polarized thoughts are replacing the gray areas. When gray area is gone, people with different ideas would not sit on the same table, would not discuss ideas (they discuss mostly characters) and most importantly they only would include “like-minded” people in their circle. I see this as not only a path to divided society, but also a danger to humanity. So here it is, this is a place where I plan to discuss ideas.
