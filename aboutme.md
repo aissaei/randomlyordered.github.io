@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About me
 ---
 
 <!-- ![Amir's image](/assets/img/amir.png=100x20) -->

@@ -14,7 +14,7 @@ author: Amir Issaei
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutus"
+  About me: "aboutme"
   Mission : "missionstatement"
   Github Repo: "githubrepository"
   Podcast: "podcast"
