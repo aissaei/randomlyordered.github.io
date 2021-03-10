@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Mission
-subtitle: Why this? And why now?
+title: Mission Statement
 ---
 
-This section needs to be filled out!
+The mission statement of this blog is simple. I am here to discuss "ideas" backed by facts. This is the place where opposite-minded people express themselves with respect and facts. 

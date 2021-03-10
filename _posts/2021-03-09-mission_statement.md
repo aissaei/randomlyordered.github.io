@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Why, What and How?
-subtitle: Be yourself; Everyone else is already taken. — Oscar Wilde.
-gh-repo: aissaei/ml_problems
-gh-badge: [star, fork, follow]
-tags: [ml, problems, ai ]
+subtitle: Be yourself; Everyone else is already taken — Oscar Wilde.
+tags: [mission statement, why before what/how]
 comments: true
 ---
 
