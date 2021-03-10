@@ -9,7 +9,7 @@ title: About Me
 
 ### Amir Issaei
 
-- From very early age I was interested to know "why". The itch of knowing "why" never subsided inside me. It only got worse as I grew up. "Why" took me to journeys I did not anticipate. Here I am to write about my "itch". As the name of the website suggests, I write about random topics. Topics will include politics, science,  Artificial Intelligence, income inequality, something that I learned recently and many more.
+- From very early age I was interested to know "why". The itch of knowing "why" never subsided inside me. It only got worse as I grew up. "Why" took me to journeys I did not anticipate. Here I am to write about my "itch". I write about random topics. Topics may include politics, science, Artificial Intelligence, income inequality, and many more topics. My goal is to publish at least one blog post per month. If you like (or do not like) the posts, write to me why or why not. I can only change what I can measure.
 
 
 
