@@ -25,6 +25,43 @@ You can only change what you measure? How does Federal reserve measure inflation
 
 Simple questions are usually not straightforward. Thankfully, we have an organization in the U.S. to do answer (some) of these questions and to measure  just that. U.S. Bureau of Labor Statistics is responsible to take these questions (and many more) into account and to measure (and report) the inflation on a regular basis. U.S. Bureau of Labor Statistics uses CPI to measure inflation. The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Indexes are available for the U.S. and various geographic areas.
 
-{% include image.html url="/assets/img/cpi-u.png" description="My cat, Robert Downey Jr." %}
+{% include image.html url="/assets/img/cpi-u.png" description="Fig 1. CPI-I example" %}
 
- <!-- <img src="/assets/img/cpi-u.png" class="center" width="200" height="300"> -->
+Figure 1 shows the sample of what U.S. Bureau of Labor Statistics reports on a regular basis. For example, Food at home CPI was 243.110 in Jan 2020 and it is 252.107. The percentage change is about 3.7%. The Bureau then combine all the percentages (some sort of weighted average) to come up with one number. **That number is the inflation**. Wait, what?? I know, I know,... the devil is in details. Just bare with me to explain the flaws in these types of aggregation. 
+
+
+
+#### There is a level of subjectivity
+
+How does Bureau come up with the categories? For example, **food** is a broad category and representing it with 6, 7 sub categories introduce some level of subjectivity. Bureau uses different surveys, research etc. to create a basket of goods, but still there is some levels of subjectivity in the end of the day. 
+
+#### Average might not be a good statistics
+
+Average is prone to outlier and might not be a good statistics to use. due to variance in price of goods based on their characteristics, it is wise to look at other statistics such as Median, and percentiles. With average, the story is summarized in one word and one word is most often misleading. 
+
+#### Whenever you aggregate, you scarify something
+
+No matter how delicate Bureau carries out the calculation, the aggregation *could* be very misleading. For example, if people in the US mostly eat Beef and Beef has been weighted heavily in the calculation, the final number will be influenced by beef more than let's say chicken. Again, no matter how you weight the items, as soon as you aggregate the numbers, you are dealing with *average* inflation. If you eat chicken a lot, the number represented here might not reflect how much your wallet is affected by inflation. Another level of aggregation occurs among categories. For example, food and energy must be weighted somehow. If you are heavy energy user, but not much food (which I do not recommend), the number reflected here might not be applicable to you.
+
+#### Price depends on the region
+
+Another flaw of these types of report is that the numbers are averaged among regions throughout the country. Sure, Bureau sub reports for each regions, but when the inflation is reported, it is only one number. This means that you might suffer from inflation heavily, and I might suffer from it mildly, but on average, the inflation is modest! 
+
+#### Price depends on sub regions
+
+Even when you look at one particular region, let's say Dallas metroplex (DFW), there are so much variance within DFW. For example, there are pockets of neighborhoods that might be affected heavily by inflation and other pockets not much, but again when the number is reported the inflation is reported as **modest*.  
+
+#### In times of shock, inflation increases 
+
+Whenever some shocks such as 2008 meltdown, 2000 tech bobble, 2020 pandemic, etc. happens, Federal Reserve uses its **tools** to stimulate the growth. 
+
+
+There are, of course, more issues with the way the numbers are reported and interpreted. But I guess you got my points here. The number that Federal Reserve is targeting (2% inflation, recently changed to *average* 2%) might not do any good to you. It has been averages/aggregated so much, it does not reflect **your** lifestyle and most importantly, it could be very misleading. As a matter of fact, if you are planning your retirement, planning to buy a house, planning to buy a car etc. you should **really think twice** before relying on the report.
+
+{% include image.html url="/assets/img/zillow-home-price.png" description="Fig 2. US home prices since 2012" %}
+
+Looking at figure 2, you will not see any number close to 2%, more close to 7%-9% yearly inflation. 
+
+#### Bottom line
+
+I analyzing data, looking at the data and most importantly using it to lead a data-driven decision making process. At the same time, I am extremely careful about the limitation of data and danger of letting it fool me. Inflation is real, Bureau is doing its best to capture **average** price movement. But you no one is exactly **average**. There are so much variance in prices based on regions, sub-regions, style of living and many more factors. Just remember that what you hear in the news is just *one number* stories that are told with one word are not complete! Until next time.
