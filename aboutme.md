@@ -3,9 +3,7 @@ layout: page
 title: About Me
 ---
 
-<!-- ![Amir's image](/assets/img/amir.png=100x20) -->
-
-<img src="/assets/img/amir.png" class="center" width="300" height="300">
+<img src="/assets/img/amir.png" class="center" width="200" height="200">
 
 ### Amir Issaei
 
