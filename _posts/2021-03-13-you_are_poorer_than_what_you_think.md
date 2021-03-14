@@ -26,8 +26,8 @@ You can only change what you measure? How does Federal reserve measure inflation
 Simple questions are usually not straightforward. Thankfully, we have an organization in the U.S. to do answer (some) of these questions and to measure  just that. U.S. Bureau of Labor Statistics is responsible to take these questions (and many more) into account and to measure (and report) the inflation on a regular basis. U.S. Bureau of Labor Statistics uses CPI to measure inflation. The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Indexes are available for the U.S. and various geographic areas.
 
 <figure class="image">
-  <img src="{{ /assets/img/cpi-u.png }}" alt="{{ CPU-I }}">
-  <figcaption>{{ This is a test}}</figcaption>
+  <img src="/assets/img/cpi-u.png" alt="CPU-I">
+  <figcaption>This is a test</figcaption>
 </figure>
 
  <!-- <img src="/assets/img/cpi-u.png" class="center" width="200" height="300"> -->
