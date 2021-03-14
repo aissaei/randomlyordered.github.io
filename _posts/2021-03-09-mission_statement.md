@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why, What and How?
-subtitle: Be yourself; Everyone else is already taken — Oscar Wilde.
+subtitle: Be yourself; Everyone else is already taken — Oscar Wilde
 tags: [mission statement, why before what/how]
 comments: true
 ---
