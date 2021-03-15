@@ -27,7 +27,7 @@ Simple questions usually do not have straightforward answers. Thankfully, we hav
 
 {% include image.html url="/assets/img/cpi-u.png" description="Fig 1. CPI-U example" %}
 
-Figure 1 shows the sample of what U.S. Bureau of Labor Statistics reports on a regular basis. For example, "food at home" CPI was 243.110 in Jan 2020 and it is 252.107 in Jan 2021. The percentage change is about 3.7%. The Bureau then combine all the percentages (some sort of weighted average) to come up with one number. **That number is the inflation rate reported through mainstream media**. Wait, what?? I know, I know,... the devil is in details. Just bare with me to explain the flaws in these types of aggregation. 
+Figure 1 shows the sample of what U.S. Bureau of Labor Statistics report. For example, "food at home" CPI was 243.110 in Jan 2020 and it is 252.107 in Jan 2021. The percentage change is about 3.7%. The Bureau then combine all the percentages (some sort of weighted average) to come up with one number. **That number is the inflation rate reported through mainstream media**. Wait, what?? I know, I know,... the devil is in details. Just bare with me to explain the flaws in these types of aggregation. 
 #### There is a level of subjectivity
 How does Bureau come up with the categories? For example, *food* is a broad category. Here we are representing it with 6-7 sub categories. That itself introduces some levels of subjectivity. Bureau uses different surveys, research etc. to create a basket of goods, but still there are some levels of subjectivity in the end of the day. Be careful when you go through their reports. 
 #### Average might not be a good statistics
