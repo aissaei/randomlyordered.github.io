@@ -45,4 +45,6 @@ There are, of course, more issues with the way the numbers are reported and inte
 {% include image.html url="/assets/img/zillow-home-price.png" description="Fig 2. US home prices since 2012" %} 
 
 #### Bottom line
-I analyze, slice and dice data daily. At the same time, I am extremely careful about the limitation of data and the danger of letting it fool me. Inflation is real, Bureau is doing its best to capture **average** price movement. But the story you hear in the mainstream media differs from reality by a lot. There is so much variance in prices depending on regions, sub-regions, your style of living and many more factors. Just remember that what you hear in the news is just *one number*. Stories that are told with one word are not complete! Until next time.
+I analyze, slice and dice data daily. At the same time, I am extremely careful about the limitation of data and the danger of letting it fool me. Inflation is real, Bureau is doing its best to capture **average** price movement. But the story you hear in the mainstream media differs from reality by a lot. There is so much variance in prices depending on regions, sub-regions, your style of living and many more factors. Just remember that what you hear in the news is just *one number*. Stories that are told with one word are not complete! 
+
+Until next time.
