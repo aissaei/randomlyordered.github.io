@@ -39,7 +39,8 @@ Another flaw of these types of reports is that the numbers are averaged among re
 #### Price depends on sub regions
 Even when you look at one particular region, let's say Dallas metroplex (DFW), there is so much variance within DFW itself. For example, there are pockets of neighborhoods that might be affected heavily by inflation and other pockets not much. 
 #### In times of shock, inflation increases 
-Whenever some shocks such as 2008 meltdown, 2000 tech bobble, 2020 pandemic, etc. happens, Federal Reserve uses its **tools** to stimulate the growth. It usually drops the interest rate, prints money and uses quantitative easing. When these tools usually results in high liquify of cash (cheap cash) which in fact result in high inflation.
+Whenever some shocks such as 2008 meltdown, 2000 tech bobble, 2020 pandemic, etc. happens, Federal Reserve uses its **tools** to stimulate the growth. It usually drops the interest rate, prints money and uses quantitative easing. The result is growth in liquidity (cheap cash) which in fact results in high inflation.
+
 There are, of course, more issues with the way the numbers are reported and interpreted. But I guess you got my points here. The number that Federal Reserve is targeting (2% inflation, recently changed to *average* 2%) might not do any good to you. It has been averages/aggregated so much, it does not reflect **your** lifestyle and most importantly, it could be very misleading. As a matter of fact, if you are planning your retirement, planning to buy a house, planning to buy a car etc. you should **really think twice** before relying on the reports. See figure 2. I leave you make your own conclusoin on *inflation* in housing market. Is it 2%?
 {% include image.html url="/assets/img/zillow-home-price.png" description="Fig 2. US home prices since 2012" %} 
 #### Bottom line
