@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You are poorer than what you think
+title: You are poorer than what you are told
 subtitle: Inflation is when you pay fifteen dollars for the ten-dollar haircut you used to get for five dollars when you had hair. — Sam Ewing
 tags: [inflation, economy]
 comments: true
@@ -20,7 +20,7 @@ You can only change what you measure, right? How does Federal reserve measure in
 0. The quality of life usually increases over time, how do we take that into account when we calculate the inflation? 
 Simple questions usually do not have straightforward answers. Thankfully, we have an organization in the U.S. to answer (some) of these questions and to measure  just that. U.S. Bureau of Labor Statistics is responsible to take these questions (and many more) into account and to measure (and report) the inflation on a regular basis. U.S. Bureau of Labor Statistics uses CPI to measure inflation. The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Indexes are available for the U.S. and various geographic areas.
 
-{% include image.html url="/assets/img/cpi-u.png" description="     Fig 1. CPI-U example" %}
+{% include image.html url="/assets/img/cpi-u.png" description="   test Fig 1. CPI-U example" %}
 
 Figure 1 shows the sample of what U.S. Bureau of Labor Statistics reports on a regular basis. For example, "food at home" CPI was 243.110 in Jan 2020 and it is 252.107 in Jan 2021. The percentage change is about 3.7%. The Bureau then combine all the percentages (some sort of weighted average) to come up with one number. **That number is the inflation rate reported on through mainstream media**. Wait, what?? I know, I know,... the devil is in details. Just bare with me to explain the flaws in these types of aggregation. 
 
