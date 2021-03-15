@@ -14,7 +14,7 @@ For aforementioned reasons and many more, central banks set inflation target and
 0. Price stability
 0. Maximum sustainable employment
 
-You might ask "well these are great mandates, but how does Federal reserve achieve those?" The answer to such a question is lengthy. I will get into it in future. In a nutshell, Federal Reserve has many tools in its disposal to use to achieve such mandates. Adjusting the interest rate, printing money, quantitate easing are just a few examples of those tools. Of course some of these tools have/are abused through time. I will address those in future as well. Long story short, we have a entity in the U.S that is responsible to achieve above mandates by using some important **tools**.
+You might ask "well these are great mandates, but how does Federal reserve achieve those?" The answer to such a question is lengthy. I will get into it in future. In a nutshell, Federal Reserve has many tools in its disposal to use to achieve such mandates. Adjusting the interest rate, printing money, quantitate easing are just a few examples of those tools. Of course some of these tools have/are abused through time. I will address those in future as well. Long story short, we have an entity in the U.S that is responsible to achieve above mandates by using some important **tools**.
 
 Federal Reserve can only use those tools *properly* if it knows what the inflation rate (among other factors) is. In other words, it can only change what it measures, right? How does Federal reserve measure inflation? This is a difficult question to answer.
 
