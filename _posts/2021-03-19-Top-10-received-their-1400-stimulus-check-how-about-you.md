@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 10% received their $1400 stimulus check, how about you?
+title: Top 10% received their $1400 stimulus checks, how about you?
 subtitle: Ninety percent of the politicians give the other ten percent a bad reputation -Henry Kissinger
 tags: [stimulus check, economy, fiscal policy]
 comments: true
