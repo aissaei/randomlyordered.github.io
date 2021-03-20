@@ -36,7 +36,7 @@ As it is obvious on Fig 3, there are many ways to reduce your AGI.
 
 For the rest of this post, I will only focus on one popular case. The case in which a couple is employed by an employer.
 
-If you are like me, you get paid by an employer. Consider a situation in which a couple with 2 children each making $100K per year. As mentioned, the upper middle class and middle class families use tax deduction and credit to fullest to minimize the amount of the tax paid to the government. Let's assume each couple contribute to his/her own 401K and IRA. 
+If you are like me, you get paid by an employer. Consider a situation in which a couple with 2 children each making $100K per year. As mentioned earlier, the upper middle class and middle class families use tax deduction and credit to fullest to minimize the amount of the tax paid to the government. Let's assume each couple contribute to his/her own 401K and IRA. 
 
 0. $19,500 per person deduction for 401k
 0. $6,000 per person deduction for 401k
