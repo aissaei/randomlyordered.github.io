@@ -22,7 +22,7 @@ Again quick Google search: your gross income is the amount of money you earn bef
 Gross income is pretty much all the wages, money, bonuses, capital gains, IRA distribution, etc. you receive/earn in a year. There are many different ways to earn money such as W-2, self-employed and business.
 
 # Specific deductions
-People, especially rich people, use all possible tax deductions and credits to save their wealth. Rich people have many backdoors (they also have money to hire great CPAs) to do so. I will get to techniques they use to ditch tax system in future posts. Let's look at the possible deductions that reduce the AGI.
+People, specially rich people, use all possible tax deductions and credits to save their wealth. Rich people have many backdoors (they also have money to hire great CPAs) to do so. I will get to techniques they use to ditch tax system in future posts. Let's look at the possible deductions that reduce the AGI.
 
 {% include image.html url="/assets/img/adjustment.png" description="Fig 2. Schedule 1 (source IRS)" %}
 
@@ -36,7 +36,7 @@ As it is obvious on Fig 3, there are many ways to reduce your AGI.
 
 For the rest of this post, I will only focus on one popular case. The case in which a couple is employed by an employer.
 
-If you are like me, you get paid by an employer. Consider a situation in which a couple with 2 children each making $100K per year. As mentioned earlier, the upper middle class and middle class families use tax deduction and credit to fullest to minimize the amount of the tax paid to the government. Let's assume each couple contribute to his/her own 401K and IRA. 
+If you are like me, you get paid by an employer. Consider a situation in which a couple with 2 children each making $100K per year. As mentioned earlier, the upper class, upper middle class and middle class families use tax deduction and credit to fullest to minimize the amount of the tax paid to the government. Let's assume each couple contribute to his/her own 401K and IRA. 
 
 0. $19,500 per person deduction for 401k
 0. $6,000 per person deduction for 401k
