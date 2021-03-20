@@ -22,7 +22,7 @@ Again quick Google search: your gross income is the amount of money you earn bef
 Gross income is pretty much all the wages, money, bonuses, capital gains, IRA distribution, etc. you receive/earn in a year. There are many different ways to earn money such as W-2, self-employed and business.
 
 # Specific deductions
-People, especially rich people, use all possible tax deductions and credits to save their wealth. Rich people have many backdoors (they also have money to hire great CPAs) to do so. I will get to techniques they use to ditch tax system in future posts. Let's look at the possible deductions that reduces the AGI.
+People, especially rich people, use all possible tax deductions and credits to save their wealth. Rich people have many backdoors (they also have money to hire great CPAs) to do so. I will get to techniques they use to ditch tax system in future posts. Let's look at the possible deductions that reduce the AGI.
 
 {% include image.html url="/assets/img/adjustment.png" description="Fig 2. Schedule 1 (source IRS)" %}
 
