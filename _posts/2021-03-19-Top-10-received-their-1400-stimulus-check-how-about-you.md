@@ -55,7 +55,7 @@ Only about 10% of the households in the US make more than $200,000 per year. If 
 
 # Bottom line
 
-Ill-designed fiscal and monetary policies result in unwanted outcomes. In previous post, I showed you how following the wrong metric for inflation could benefit population asymmetrically (meaning rich becomes richer and middle class is pushed down). In this post, I showed you how looking at the wrong number benefited many who did not need any help for the most part. AGI was definitely a wrong number to look at when such policies were designed. Instead, total gross income could have been a better number to consider. I guess it is very true that `Ninety percent of the politicians give the other ten percent a bad reputation`.
+Ill-designed fiscal and monetary policies result in unwanted outcomes. In previous post, I showed you how following the wrong metric for inflation could benefit population asymmetrically (meaning rich becomes richer and middle class is pushed down). In this post, I showed you how looking at the wrong number benefited many who did not need any help for the most part. AGI was definitely a wrong number to look at when such policies were designed. Instead, total gross income could have been a better number to consider. I guess it is very true that `ninety percent of the politicians give the other ten percent a bad reputation`.
 
 Until next time.
 
