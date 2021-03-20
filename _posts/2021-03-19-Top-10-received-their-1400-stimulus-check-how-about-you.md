@@ -48,7 +48,7 @@ If we sum only these 3 adjustments, we end up with $53000 deduction. Boom! The c
 Of course, I only used a very simple case here to prove my point. Things get even worse if we include other adjustment into the equations. Things like adjustments for the health saving account ($7100 per year) or Self-employed SEP (up to $57,000 adjustment).
 
 # Income distribution 
-{% include image.html url="/assets/img/adjustment.png" description="Fig 3. Household income" %}
+{% include image.html url="/assets/img/income-distribution.png" description="Fig 3. Household income" %}
 
 According to Figure 3, only about 10% of the households in the US make more than $200,000 per year. If we put all the analysis together, we can deduce that top 10% got their stimulus check. I would argue that people in top 8% even got some money from government as well. 
 
