@@ -59,7 +59,7 @@ Ill-designed fiscal and monetary policies result in unwanted outcomes. In previo
 
 Until next time.
 
-**Disclaimer**: The Content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. All Content on this site is information of a general nature and does not address the circumstances of any particular individual or entity. 
+**Disclaimer** The content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. All Content on this site is information of a general nature and does not address the circumstances of any particular individual or entity. 
 
 
 
