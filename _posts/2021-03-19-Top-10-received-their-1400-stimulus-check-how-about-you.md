@@ -17,14 +17,14 @@ Wikipedia says adjusted gross income (AGI) is `an individual's total gross incom
 # What is gross income?
 Again quick Google search: your gross income is the amount of money you earn before anything is taken out for taxes or other deductions. For example, even though your monthly salary might be $3,500, you might only receive a check for $2,500. In that case, your net income would be $2,500, but your gross income is $3,500.
 
-{% include image.html url="/assets/img/gross-income.png" description="Fig 1. Form 1040 (gross income)" %} 
+{% include image.html url="/assets/img/gross-income.png" description="Fig 1. Form 1040 (gross income, source IRS)" %} 
 
 Gross income is pretty much all the wages, money, bonuses, capital gains, IRA distribution, etc. you receive/earn in a year. There are many different ways to earn money such as W-2, self-employed and business.
 
 # Specific deductions
 People, especially rich people, use all possible tax deductions and credits to save their wealth. Rich people have many backdoors (they also have money to hire great CPAs) to do so. I will get to techniques they use to ditch tax system in future posts. Let's look at the possible deductions that reduces the AGI.
 
-{% include image.html url="/assets/img/adjustment.png" description="Fig 2. Schedule 1" %}
+{% include image.html url="/assets/img/adjustment.png" description="Fig 2. Schedule 1 (source IRS)" %}
 
 As it is obvious on Fig 3, there are many ways to reduce your AGI.
 0. Student interest rate
@@ -48,9 +48,9 @@ If we sum only these 3 adjustments, we end up with $53000 deduction. Boom! The c
 Of course, I only used a very simple case here to prove my point. Things get even worse if we include other adjustment into the equations. Things like adjustments for the health saving account ($7100 per year) or Self-employed SEP (up to $57,000 adjustment).
 
 # Income distribution 
-{% include image.html url="/assets/img/income-distribution.png" description="Fig 3. Household income" %}
+{% include image.html url="/assets/img/income-distribution.png" description="Fig 3. Household income (source statista.com" %}
 
-According to Figure 3, only about 10% of the households in the US make more than $200,000 per year. If we put all the analysis together, we can deduce that top 10% got their stimulus check. I would argue that people in top 8% even got some money from government as well. 
+According to Figure 3, only about 10% of the households in the US make more than $200,000 per year. If we put all the analysis together, we can deduce that top 10% got their stimulus check. I would argue that people in top 8% even got some money from government. 
 
 
 # Bottom line
@@ -58,6 +58,9 @@ According to Figure 3, only about 10% of the households in the US make more than
 Ill-designed fiscal and monetary policies result in unwanted outcomes. In previous post, I showed you how following the wrong metric for inflation could benefit population asymmetrically (meaning rich becomes richer and middle class is pushed down). In this post, I showed you how looking at the wrong number benefited many who did not need any help. AGI was definitely a wrong number to look at when such policies were designed. Instead, total gross income could have been a better number to look at. I guess it is very true that `Ninety percent of the politicians give the other ten percent a bad reputation`.
 
 Until next time.
+
+**Disclaimer**
+The Content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on my site constitutes a solicitation, recommendation, endorsement, etc. All Content on this site is information of a general nature and does not address the circumstances of any particular individual or entity. 
 
 
 
