@@ -30,7 +30,7 @@ As it is obvious on Fig 3, there are many ways to reduce your AGI.
 0. Student interest rate
 0. IRA deduction
 0. Health saving account deduction
-0. Self-employed SEP (up to $56,000)
+0. Self-employed SEP (up to $57,000)
 0. Tuition 
 0. ...
 
