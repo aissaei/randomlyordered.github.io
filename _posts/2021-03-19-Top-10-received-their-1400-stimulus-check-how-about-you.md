@@ -19,7 +19,7 @@ Again quick Google search: your gross income is the amount of money you earn bef
 
 {% include image.html url="/assets/img/gross-income.png" description="Fig 1. Form 1040 (gross income)" %} 
 
-Gross income is pretty much all the wages, money, bonuses, capital gains, IRA distribution, etc. you receive/earn in a year. There are many different ways to earn money such as W-2, self-employed and business. On this post, I only focus on the first two to show you how top percent got their stimulus check. But before getting into details, let's have a look at household income distribution in the US. 
+Gross income is pretty much all the wages, money, bonuses, capital gains, IRA distribution, etc. you receive/earn in a year. There are many different ways to earn money such as W-2, self-employed and business. In this post, I only focus on the first two to show you how top percent got their stimulus check. But before getting into details, let's have a look at household income distribution in the US. 
 
 # Specific deductions
 People, especially rich people, use all possible tax deductions and credits to save their wealth. Rich people have many backdoors (they also have money to hire great CPAs) to do so. I will get to techniques they use to ditch tax system in future posts. Let's look at the possible deductions that reduces the AGI.
