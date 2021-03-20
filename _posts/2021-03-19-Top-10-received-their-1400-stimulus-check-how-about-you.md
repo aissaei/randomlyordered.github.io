@@ -5,7 +5,7 @@ subtitle: Ninety percent of the politicians give the other ten percent a bad rep
 tags: [stimulus check, economy, fiscal policy]
 comments: true
 ---
-Federal reserve is printing money like there is no tomorrow to aid the economy and *Americans*. Its balance sheet went up by more than $3T (yes big T) in a couple of months last year. 20% to 30% of all US dollars in the history were printed in less than a year in 2020 (well actually it was a couple of clicks to *print* money). Most Americans received the stimulus check as part of the *aid* package. I am not planning to get into details of whether or not the amount of money Fed printed was necessary in this post. I also do not discuss where the rest of the money is spent (or is going to be spent) in this post. I keep those for later posts.
+Federal reserve is printing money like there is no tomorrow to aid the economy and *Americans*. Its balance sheet went up by more than $3T (yes big T) in a couple of months last year. 20% to 30% of all US dollars in the history were printed in less than a year in 2020 (well actually it was a couple of clicks to *print* money). Most Americans received the stimulus check as part of the *aid* bills. I am not planning to get into details of whether or not the amount of money Fed printed was necessary in this post. I also do not discuss where the rest of the money is spent (or is going to be spent) in this post. I keep those for later posts.
 
 When *Americans* were given stimulus check, I looked into details of who was eligible and who was not. To my surprise I found out that the check was given to people based on their *AGI* in 2019 or 2020 tax fillings. "What??? Are you serious?" are the questions passed through my mind as I was reading the details of the bill. In this post I am going to show you why AGI was a horrible number to use to decide who should or should not receive the check. I will also show you how a family of 4 with $200,000+ gross income received $5,600 (well because they probably needed some help).
 
@@ -45,7 +45,7 @@ Let's also assume each person has a student loan that follows average student lo
 
 If we sum only these 3 adjustments, we end up with $53000 deduction. Boom! The couple is eligible for all 3 stimulus checks (AGI = $200,000 - $53,000 = $147,000) which is less than $150,000.
 
-I only used a very simple case here to prove my point. Things get even worse if we include other adjustment into the equations. Things like adjustments for the health saving account ($7100 per year) or Self-employed SEP (up to $57,000 adjustment).
+I only used a very simple case here to prove my point. Things get even worse if we include other adjustment into the equations. Things like adjustments for the health saving account ($7100 per year) or Self-employed SEP (up to $57,000 adjustment). In that case, a couple with $250,000+ gross income was even eligible to receive the *aids*.
 
 # Income distribution 
 {% include image.html url="/assets/img/income-distribution.png" description="Fig 3. Household income (source statista.com" %}
