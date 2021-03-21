@@ -10,7 +10,7 @@ Federal reserve is printing money like there is no tomorrow to aid the economy a
 When checks were issued to *Americans*, I looked into details of who was eligible and who was not. To my surprise I found out that the checks were given to people based on their *AGI* in 2019 or 2020 tax fillings. "What??? Are you serious?" were the questions passed through my mind as I was reading the details of the bills. In this post I am going to show you why AGI was a horrible number to use to decide who should or should not receive the checks. I will also show you how a family of 4 with $200,000+ gross income received $5,600 (well because they probably needed some help).
 
 # What is AGI?
-Wikipedia says adjusted gross income (AGI) is `an individual's total gross income minus specific deductions.It is used to calculate taxable income.` To understand how it is calculated, we need to understand two things:
+Wikipedia says adjusted gross income (AGI) is `an individual's total gross income minus specific deductions. It is used to calculate taxable income.` To understand how it is calculated, we need to understand two things:
 0. Gross income
 0. Specific deductions
 
