@@ -56,3 +56,5 @@ There are, of course, more issues with the way the numbers are reported and inte
 I analyze, slice and dice data daily. At the same time, I am extremely careful about the limitation of data and the danger of letting it fool me. Inflation is real and it is a lot higher than what reports say. Bureau is doing its best to capture **average** price movement. There is so much variance in prices depending on regions, sub-regions, your style of living and many more factors. Just remember that what you hear in the news is just *one number*. Stories that are told with one word are not complete! 
 
 Until next time.
+
+**Disclaimer** The content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. All Content on this site is information of a general nature and does not address the circumstances of any particular individual or entity.
