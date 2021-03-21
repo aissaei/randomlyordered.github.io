@@ -49,8 +49,7 @@ I only used a very simple case here to prove my point. Things get even worse if 
 
 {% include image.html url="/assets/img/income-distribution.png" description="Fig 3. Household income (source statista.com)" %}
 
-Only about 10% of the households in the US make more than $200,000 per year. If we put all the analysis together, we can deduce that top 10% got their stimulus checks. I would argue that people in top 8% even got some money from the government. 
-
+Only about 10% of the households in the US make more than $200,000 per year. If we put all the analysis together, we can deduce that households among top 10% could potentially be eligible to receive the stimulus checks and many of them, of course, received them. 
 
 # Bottom line
 
