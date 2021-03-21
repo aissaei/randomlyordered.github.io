@@ -45,7 +45,7 @@ Let's also assume each person has a student loan that follows average student lo
 
 If we sum only these 3 adjustments, we end up with $53000 deduction. Boom! The couple is eligible for all 3 stimulus checks (AGI = $200,000 - $53,000 = $147,000) which is less than $150,000.
 
-I only used a very simple case here to prove my point. Things get even worse if we include other adjustment into the equations. Things like adjustments for the health saving account ($7100 per year) or Self-employed SEP (up to $57,000 adjustment). In that case, a couple with $250,000+ gross income was even eligible to receive the *aids*.
+I only used a very simple case here to prove my point. Things get even worse if we include other adjustments into the equations. Things like adjustments for the health saving account ($7100 per year) or Self-employed SEP (up to $57,000 adjustment). In that case, a couple with $250,000+ gross income was even eligible to receive the *aids*.
 
 # Income distribution 
 {% include image.html url="/assets/img/income-distribution.png" description="Fig 3. Household income (source statista.com)" %}
