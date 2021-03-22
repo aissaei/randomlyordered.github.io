@@ -18,6 +18,7 @@ navbar-links:
   Mission : "missionstatement"
   Github Repo: "githubrepository"
   Podcast: "podcast"
+  Disclaimer: "licensedisclaimer"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
