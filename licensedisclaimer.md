@@ -1,6 +1,6 @@
 ---
 layout: page
-title: License & Diclaimer
+title: License & Disclaimer
 ---
 # Disclaimer
 Last updated: March 21, 2021
