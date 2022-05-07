@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I procrastinated for almost a year?
+title: Why I procrastinated for over a year?
 subtitle: Procrastination gives you something to look forward to — Joan Konner
 tags: [random blurb]
 comments: true
