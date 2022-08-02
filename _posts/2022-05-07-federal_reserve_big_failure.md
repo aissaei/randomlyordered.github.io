@@ -26,3 +26,6 @@ I tame the perfectionist side of me. I stay true to myself and will not get into
 
 
 Until next time.
+
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/test_16594102505610/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
