@@ -5,7 +5,7 @@ subtitle: There's nothing the people love more than a Federal Reserve joke  -Ada
 tags: [economy]
 comments: true
 ---
-It was March 2021 when I wrote about [inflation](https://randomlyordered.com/2021-03-13-you_are_poorer_than_what_you_are_told-copy/) and why inflation numbers presented to Americans in mainstream media and pushed to public by Federal Reserve were misleading. Here we are after 14 month from that article with price inflation soaring to 8.5% (measured by metrics defined by the Federal Reserve) and asset inflation are in mid double digits if not high. When I published that article, I started writing about two other factors that contributed to the inflation in addition to the Federal Reserve money printing policy: 1) *government spending* and 2) *supply chain bottlenecks*, but I did not end up publishing those articles due to [procrastination](https://randomlyordered.com/2022-05-07-art_of_procrastination/). In this article, however,I like to spend some time looking into Federal Reserve big failure in forecasting inflation. 
+<!-- It was March 2021 when I wrote about [inflation](https://randomlyordered.com/2021-03-13-you_are_poorer_than_what_you_are_told-copy/) and why inflation numbers presented to Americans in mainstream media and pushed to public by Federal Reserve were misleading. Here we are after 14 month from that article with price inflation soaring to 8.5% (measured by metrics defined by the Federal Reserve) and asset inflation are in mid double digits if not high. When I published that article, I started writing about two other factors that contributed to the inflation in addition to the Federal Reserve money printing policy: 1) *government spending* and 2) *supply chain bottlenecks*, but I did not end up publishing those articles due to [procrastination](https://randomlyordered.com/2022-05-07-art_of_procrastination/). In this article, however,I like to spend some time looking into Federal Reserve big failure in forecasting inflation. 
 
 
 
@@ -28,4 +28,5 @@ I tame the perfectionist side of me. I stay true to myself and will not get into
 Until next time.
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/test_16594102505610/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/test_16594102505610/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>  -->
+
